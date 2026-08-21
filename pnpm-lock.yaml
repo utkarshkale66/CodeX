@@ -4,11 +4,6 @@ settings:
   autoInstallPeers: true
   excludeLinksFromLockfile: false
 
-patchedDependencies:
-  monaco-themes:
-    hash: 6daxwvy6nnfmdndi2nd7zwkctm
-    path: patches/monaco-themes.patch
-
 importers:
 
   .:
@@ -142,7 +137,7 @@ importers:
         version: 0.52.2
       monaco-themes:
         specifier: ^0.4.8
-        version: 0.4.8(patch_hash=6daxwvy6nnfmdndi2nd7zwkctm)
+        version: 0.4.8
       motion:
         specifier: ^11.18.2
         version: 11.18.2(react-dom@19.2.8(react@19.2.8))(react@19.2.8)
@@ -12791,7 +12786,7 @@ snapshots:
 
   monaco-editor@0.52.2: {}
 
-  monaco-themes@0.4.8(patch_hash=6daxwvy6nnfmdndi2nd7zwkctm):
+  monaco-themes@0.4.8:
     dependencies:
       fast-plist: 0.1.3
 

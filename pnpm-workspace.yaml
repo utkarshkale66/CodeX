@@ -1,6 +1,3 @@
 packages:
   - apps/*
   - packages/*
-
-patchedDependencies:
-  monaco-themes: patches/monaco-themes.patch
