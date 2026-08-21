@@ -20,8 +20,6 @@
 
 **✨ Try now at [codex.dulapahv.dev](https://codex.dulapahv.dev/)**
 
-> This project is part of the course "COMPSCI4025P Level 4 Individual Project" at the University of Glasgow.
-
 For detailed usage instructions and feature documentation, please see the **[User Manual](manual.md)**.
 
 ## Features
@@ -357,17 +355,4 @@ Contributions are welcome! To contribute to this project, follow these steps:
 
 For detailed usage instructions and feature documentation, please refer to the **[User Manual](manual.md)**.
 
-## License
 
-Copyright (C) 2024-2026 Dulapah Vibulsanti.
-
-Licensed under the **GNU Affero General Public License v3.0** - see [LICENSE](LICENSE) for the full text.
-
-You are free to use, study, modify and share this project. In return, the AGPL asks two things:
-
-- **If you deploy a modified version as a network service**, you must offer its complete source to everyone who uses it (AGPL section 13). Running it on a server counts as distribution - this is the difference between the AGPL and the GPL.
-- **You must preserve attribution.** Under an [additional term](NOTICE) permitted by AGPL section 7(b), the per-file authorship headers must stay intact, and a network-deployed derivative must visibly credit `Based on CodeX by Dulapah Vibulsanti` in its interface.
-
-The name **CodeX**, the logo, and the author's name are **not** covered by the AGPL and may not be used to identify, endorse or promote derived works. See [NOTICE](NOTICE) for the attribution and trademark terms in full.
-
-> Versions released before this change remain available under Apache-2.0; the AGPL applies from this commit onward.
